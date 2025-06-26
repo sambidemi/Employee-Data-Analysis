@@ -26,7 +26,7 @@ It covers loadind dataset from an external file, data cleaning, data statistical
 - Sample datasets
 - Cleaned datasets
 
-## 🎯 Purpose
+## Purpose
 
 This notebook is part of a data analysis learning project aimed at building hands-on experience with real-world data handling and transformation using Pandas.
 
