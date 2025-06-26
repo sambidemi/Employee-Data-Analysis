@@ -1,0 +1,19 @@
+Staff Name,Department,Salary Component,Amount
+Alice,HR,Staff Salary,50000
+Bob,IT,Staff Salary,60000
+Charlie,Finance,Staff Salary,55000
+David,IT,Staff Salary,52000
+Eve,IT,Staff Salary,55800
+Frank,HR,Staff Salary,62000
+Alice,HR,Net Salary,45000
+Bob,IT,Net Salary,54000
+Charlie,Finance,Net Salary,49500
+David,IT,Net Salary,46800
+Eve,IT,Net Salary,50220
+Frank,HR,Net Salary,55800
+Alice,HR,Tax,5000
+Bob,IT,Tax,6000
+Charlie,Finance,Tax,5500
+David,IT,Tax,5200
+Eve,IT,Tax,5580
+Frank,HR,Tax,6200
